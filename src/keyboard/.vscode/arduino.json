@@ -1,0 +1,6 @@
+{
+    "programmer": "AVR ISP",
+    "sketch": "keyboard.ino",
+    "port": "COM1",
+    "board": "digistump:avr:digispark-tiny"
+}

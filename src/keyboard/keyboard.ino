@@ -13,9 +13,10 @@ void loop() {
   // Type out this string letter by letter on the computer (assumes US-style
   // keyboard)
   DigiKeyboard.println("Hello Digispark!");
+
   
   // It's better to use DigiKeyboard.delay() over the regular Arduino delay()
   // if doing keyboard stuff because it keeps talking to the computer to make
-  // sure the computer knows the keyboard is alive and connected
+  // sure the computer knows the board is alive and connected
   DigiKeyboard.delay(5000);
 }
