@@ -1,0 +1,6 @@
+{
+    "programmer": "AVR ISP",
+    "sketch": "osx_yt_blast.ino",
+    "port": "COM1",
+    "board": "digistump:avr:digispark-tiny"
+}
