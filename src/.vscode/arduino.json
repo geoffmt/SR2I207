@@ -1,0 +1,6 @@
+{
+    "board": "digistump:avr:digispark-tiny",
+    "sketch": "Payload/payload1.ino",
+    "programmer": "AVR ISP",
+    "port": "COM1"
+}
